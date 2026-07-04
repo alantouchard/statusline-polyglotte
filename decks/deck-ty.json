@@ -1,0 +1,524 @@
+{
+  "lang": "ty",
+  "name": "Reo tahiti — deck de base",
+  "version": 1,
+  "flag": "🇵🇫",
+  "entries": [
+    {
+      "ty": "'ia ora na",
+      "fr": "bonjour",
+      "pron": "ya ora na",
+      "level": 1
+    },
+    {
+      "ty": "nana",
+      "fr": "salut / au revoir",
+      "pron": "nana",
+      "level": 1
+    },
+    {
+      "ty": "māuruuru",
+      "fr": "merci",
+      "pron": "maourourou",
+      "level": 1
+    },
+    {
+      "ty": "māuruuru roa",
+      "fr": "merci beaucoup",
+      "pron": "maourourou roa",
+      "level": 1
+    },
+    {
+      "ty": "'ē",
+      "fr": "oui",
+      "pron": "é",
+      "level": 1
+    },
+    {
+      "ty": "'aita",
+      "fr": "non",
+      "pron": "aïta",
+      "level": 1
+    },
+    {
+      "ty": "fenua",
+      "fr": "pays, terre",
+      "pron": "fénoua",
+      "level": 1
+    },
+    {
+      "ty": "moana",
+      "fr": "océan",
+      "pron": "moana",
+      "level": 1
+    },
+    {
+      "ty": "miti",
+      "fr": "mer, eau salée",
+      "pron": "miti",
+      "level": 1
+    },
+    {
+      "ty": "pape",
+      "fr": "eau (douce)",
+      "pron": "papé",
+      "level": 1
+    },
+    {
+      "ty": "fare",
+      "fr": "maison",
+      "pron": "faré",
+      "level": 1
+    },
+    {
+      "ty": "motu",
+      "fr": "îlot",
+      "pron": "motou",
+      "level": 1
+    },
+    {
+      "ty": "tāne",
+      "fr": "homme, mari",
+      "pron": "tané",
+      "level": 1
+    },
+    {
+      "ty": "vahine",
+      "fr": "femme",
+      "pron": "vahiné",
+      "level": 1
+    },
+    {
+      "ty": "tamari'i",
+      "fr": "enfants",
+      "pron": "tamarii",
+      "level": 1
+    },
+    {
+      "ty": "hoa",
+      "fr": "ami",
+      "pron": "hoa",
+      "level": 1
+    },
+    {
+      "ty": "fēti'i",
+      "fr": "famille, parenté",
+      "pron": "fétii",
+      "level": 1
+    },
+    {
+      "ty": "i'a",
+      "fr": "poisson",
+      "pron": "ia",
+      "level": 1
+    },
+    {
+      "ty": "mā'a",
+      "fr": "nourriture",
+      "pron": "maa",
+      "level": 1
+    },
+    {
+      "ty": "moni",
+      "fr": "argent",
+      "pron": "moni",
+      "level": 1
+    },
+    {
+      "ty": "'ohipa",
+      "fr": "travail",
+      "pron": "ohipa",
+      "level": 1
+    },
+    {
+      "ty": "mahana",
+      "fr": "soleil, jour",
+      "pron": "mahana",
+      "level": 1
+    },
+    {
+      "ty": "'āva'e",
+      "fr": "lune, mois",
+      "pron": "avaé",
+      "level": 1
+    },
+    {
+      "ty": "matahiti",
+      "fr": "année",
+      "pron": "matahiti",
+      "level": 1
+    },
+    {
+      "ty": "pō",
+      "fr": "nuit",
+      "pron": "po",
+      "level": 1
+    },
+    {
+      "ty": "ra'i",
+      "fr": "ciel",
+      "pron": "raï",
+      "level": 1
+    },
+    {
+      "ty": "ua",
+      "fr": "pluie",
+      "pron": "oua",
+      "level": 1
+    },
+    {
+      "ty": "mata'i",
+      "fr": "vent",
+      "pron": "mataï",
+      "level": 1
+    },
+    {
+      "ty": "tahatai",
+      "fr": "plage, bord de mer",
+      "pron": "tahataï",
+      "level": 1
+    },
+    {
+      "ty": "va'a",
+      "fr": "pirogue",
+      "pron": "vaa",
+      "level": 1
+    },
+    {
+      "ty": "manu",
+      "fr": "oiseau",
+      "pron": "manou",
+      "level": 1
+    },
+    {
+      "ty": "'ūrī",
+      "fr": "chien",
+      "pron": "ouri",
+      "level": 1
+    },
+    {
+      "ty": "mīmī",
+      "fr": "chat",
+      "pron": "mimi",
+      "level": 1
+    },
+    {
+      "ty": "taote",
+      "fr": "médecin",
+      "pron": "taoté",
+      "level": 1
+    },
+    {
+      "ty": "fare ma'i",
+      "fr": "hôpital",
+      "pron": "faré maï",
+      "level": 1
+    },
+    {
+      "ty": "fare toa",
+      "fr": "magasin",
+      "pron": "faré toa",
+      "level": 1
+    },
+    {
+      "ty": "mātete",
+      "fr": "marché",
+      "pron": "matété",
+      "level": 1
+    },
+    {
+      "ty": "pereo'o",
+      "fr": "voiture",
+      "pron": "péréoo",
+      "level": 1
+    },
+    {
+      "ty": "pahī",
+      "fr": "bateau, navire",
+      "pron": "pahi",
+      "level": 1
+    },
+    {
+      "ty": "manureva",
+      "fr": "avion",
+      "pron": "manouréva",
+      "level": 1
+    },
+    {
+      "ty": "purūmu",
+      "fr": "route",
+      "pron": "pouroumou",
+      "level": 1
+    },
+    {
+      "ty": "maita'i",
+      "fr": "bien, bon",
+      "pron": "maïtaï",
+      "level": 1
+    },
+    {
+      "ty": "'ino",
+      "fr": "mauvais",
+      "pron": "ino",
+      "level": 1
+    },
+    {
+      "ty": "nehenehe",
+      "fr": "beau, joli",
+      "pron": "néhénéhé",
+      "level": 1
+    },
+    {
+      "ty": "rahi",
+      "fr": "grand, beaucoup",
+      "pron": "rahi",
+      "level": 1
+    },
+    {
+      "ty": "iti",
+      "fr": "petit",
+      "pron": "iti",
+      "level": 1
+    },
+    {
+      "ty": "vitiviti",
+      "fr": "vite, rapide",
+      "pron": "vitiviti",
+      "level": 1
+    },
+    {
+      "ty": "fiu",
+      "fr": "lassé, marre (LE mot du fenua)",
+      "pron": "fiou",
+      "level": 1
+    },
+    {
+      "ty": "here",
+      "fr": "amour",
+      "pron": "héré",
+      "level": 1
+    },
+    {
+      "ty": "haere",
+      "fr": "aller",
+      "pron": "haéré",
+      "level": 1
+    },
+    {
+      "ty": "'amu",
+      "fr": "manger",
+      "pron": "amou",
+      "level": 1
+    },
+    {
+      "ty": "inu",
+      "fr": "boire",
+      "pron": "inou",
+      "level": 1
+    },
+    {
+      "ty": "ta'oto",
+      "fr": "dormir",
+      "pron": "taoto",
+      "level": 1
+    },
+    {
+      "ty": "parau",
+      "fr": "parler / mot",
+      "pron": "paraou",
+      "level": 1
+    },
+    {
+      "ty": "'ite",
+      "fr": "voir, savoir",
+      "pron": "ité",
+      "level": 1
+    },
+    {
+      "ty": "hina'aro",
+      "fr": "vouloir, désirer",
+      "pron": "hinaaro",
+      "level": 1
+    },
+    {
+      "ty": "rave",
+      "fr": "faire, prendre",
+      "pron": "ravé",
+      "level": 1
+    },
+    {
+      "ty": "hīmene",
+      "fr": "chanter / chanson",
+      "pron": "himéné",
+      "level": 1
+    },
+    {
+      "ty": "'ori",
+      "fr": "danser / danse",
+      "pron": "ori",
+      "level": 1
+    },
+    {
+      "ty": "'au",
+      "fr": "nager",
+      "pron": "aou",
+      "level": 1
+    },
+    {
+      "ty": "hō'ē",
+      "fr": "un (1)",
+      "pron": "hoé",
+      "level": 1
+    },
+    {
+      "ty": "piti",
+      "fr": "deux (2)",
+      "pron": "piti",
+      "level": 1
+    },
+    {
+      "ty": "toru",
+      "fr": "trois (3)",
+      "pron": "torou",
+      "level": 1
+    },
+    {
+      "ty": "maha",
+      "fr": "quatre (4)",
+      "pron": "maha",
+      "level": 1
+    },
+    {
+      "ty": "pae",
+      "fr": "cinq (5)",
+      "pron": "paé",
+      "level": 1
+    },
+    {
+      "ty": "ōno",
+      "fr": "six (6)",
+      "pron": "ono",
+      "level": 1
+    },
+    {
+      "ty": "hitu",
+      "fr": "sept (7)",
+      "pron": "hitou",
+      "level": 1
+    },
+    {
+      "ty": "va'u",
+      "fr": "huit (8)",
+      "pron": "vaou",
+      "level": 1
+    },
+    {
+      "ty": "iva",
+      "fr": "neuf (9)",
+      "pron": "iva",
+      "level": 1
+    },
+    {
+      "ty": "'ahuru",
+      "fr": "dix (10)",
+      "pron": "ahourou",
+      "level": 1
+    },
+    {
+      "ty": "E aha te huru?",
+      "fr": "Comment ça va ?",
+      "pron": "é aha té hourou",
+      "level": 2
+    },
+    {
+      "ty": "Maita'i roa",
+      "fr": "Très bien",
+      "pron": "maïtaï roa",
+      "level": 2
+    },
+    {
+      "ty": "'O vai tō 'oe i'oa?",
+      "fr": "Comment tu t'appelles ?",
+      "pron": "o vaï to oé ioa",
+      "level": 2
+    },
+    {
+      "ty": "'O … tō'u i'oa",
+      "fr": "Je m'appelle …",
+      "pron": "o …e toou ioa",
+      "level": 2
+    },
+    {
+      "ty": "Tāma'a maita'i!",
+      "fr": "Bon appétit !",
+      "pron": "tamaa maïtaï",
+      "level": 2
+    },
+    {
+      "ty": "Manuia!",
+      "fr": "Santé ! (trinquer)",
+      "pron": "manouia",
+      "level": 2
+    },
+    {
+      "ty": "'Aita e pe'ape'a",
+      "fr": "Pas de problème",
+      "pron": "aïta é péapéa",
+      "level": 2
+    },
+    {
+      "ty": "'Ua fiu au",
+      "fr": "J'en ai marre",
+      "pron": "oua fiou aou",
+      "level": 2
+    },
+    {
+      "ty": "'Ua po'ia au",
+      "fr": "J'ai faim",
+      "pron": "oua poïa aou",
+      "level": 2
+    },
+    {
+      "ty": "Tei hea...?",
+      "fr": "Où est... ?",
+      "pron": "téï héa",
+      "level": 2
+    },
+    {
+      "ty": "'A haere mai!",
+      "fr": "Viens !",
+      "pron": "a haéré maï",
+      "level": 2
+    },
+    {
+      "ty": "E mea nehenehe",
+      "fr": "C'est beau",
+      "pron": "é méa néhénéhé",
+      "level": 2
+    },
+    {
+      "ty": "'Ua here au ia 'oe",
+      "fr": "Je t'aime",
+      "pron": "oua héré aou ya oé",
+      "level": 2
+    },
+    {
+      "ty": "Pārahi!",
+      "fr": "Au revoir (à celui qui reste)",
+      "pron": "parahi",
+      "level": 2
+    },
+    {
+      "ty": "'Ia maita'i 'oe",
+      "fr": "Porte-toi bien",
+      "pron": "ya maïtaï oé",
+      "level": 2
+    },
+    {
+      "ty": "Haere maru",
+      "fr": "Vas-y doucement",
+      "pron": "haéré marou",
+      "level": 2
+    }
+  ]
+}
