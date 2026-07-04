@@ -11,14 +11,17 @@ mkdir -p "$TARGET"
 cp "$REPO_DIR/statusline-polyglotte.sh" "$TARGET/"
 chmod +x "$TARGET/statusline-polyglotte.sh"
 cp "$REPO_DIR/decks/"deck-*.json "$TARGET/"
+cp "$REPO_DIR/decks/kbd.json" "$TARGET/"
 
 echo "✅ Fichiers installés dans $TARGET"
 echo ""
 echo "Decks installés :"
-ls "$TARGET"/deck-*.json | sed 's/^/  - /'
+ls "$TARGET"/deck-*.json "$TARGET"/kbd.json | sed 's/^/  - /'
 echo ""
 echo "👉 Pour n'apprendre qu'une seule langue, désactivez les autres decks :"
 echo "   mv $TARGET/deck-ty.json $TARGET/deck-ty.json.off"
+echo "👉 Pour désactiver la ligne 2 (raccourcis clavier) :"
+echo "   mv $TARGET/kbd.json $TARGET/kbd.json.off"
 echo ""
 echo "Dernière étape — ajoutez ce bloc dans ~/.claude/settings.json :"
 echo ""

@@ -1,0 +1,378 @@
+{
+ "name": "Raccourcis clavier",
+ "icon": "⌨️",
+ "entries": [
+  {
+   "k": "⌘ Espace",
+   "fr": "Spotlight",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧4",
+   "fr": "capture d'écran (zone)",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧5",
+   "fr": "capture / enregistrement écran (options)",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧3",
+   "fr": "capture écran entier",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧4 puis Espace",
+   "fr": "capture d'une fenêtre entière",
+   "app": "macOS",
+   "level": 2
+  },
+  {
+   "k": "⌃⌘Q",
+   "fr": "verrouiller l'écran",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘⌥Esc",
+   "fr": "forcer à quitter une app",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘Tab",
+   "fr": "basculer entre apps",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘`",
+   "fr": "basculer entre fenêtres d'une même app",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘H",
+   "fr": "masquer l'app active",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘⌥H",
+   "fr": "masquer toutes les autres apps",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘Q",
+   "fr": "quitter l'app",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘⌥D",
+   "fr": "afficher/masquer le Dock",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌃↑",
+   "fr": "Mission Control (toutes les fenêtres)",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌃←/→",
+   "fr": "changer de bureau (Space)",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘,",
+   "fr": "réglages de l'app active",
+   "app": "macOS",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧.",
+   "fr": "afficher les fichiers cachés",
+   "app": "Finder",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧G",
+   "fr": "aller au dossier (chemin)",
+   "app": "Finder",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧N",
+   "fr": "nouveau dossier",
+   "app": "Finder",
+   "level": 1
+  },
+  {
+   "k": "⌘⌫",
+   "fr": "mettre à la corbeille",
+   "app": "Finder",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧⌫",
+   "fr": "vider la corbeille",
+   "app": "Finder",
+   "level": 2
+  },
+  {
+   "k": "Espace",
+   "fr": "Coup d'œil (aperçu rapide)",
+   "app": "Finder",
+   "level": 1
+  },
+  {
+   "k": "⌘I",
+   "fr": "lire les informations",
+   "app": "Finder",
+   "level": 1
+  },
+  {
+   "k": "⌘D",
+   "fr": "dupliquer le fichier",
+   "app": "Finder",
+   "level": 1
+  },
+  {
+   "k": "⌘⌥C",
+   "fr": "copier le chemin du fichier",
+   "app": "Finder",
+   "level": 2
+  },
+  {
+   "k": "⌘E",
+   "fr": "éjecter le volume sélectionné",
+   "app": "Finder",
+   "level": 2
+  },
+  {
+   "k": "⌘⌥V",
+   "fr": "déplacer (couper-coller) le fichier copié",
+   "app": "Finder",
+   "level": 2
+  },
+  {
+   "k": "⌥←/→",
+   "fr": "sauter de mot en mot",
+   "app": "Texte",
+   "level": 1
+  },
+  {
+   "k": "⌘←/→",
+   "fr": "aller au début / à la fin de la ligne",
+   "app": "Texte",
+   "level": 1
+  },
+  {
+   "k": "⌥⌫",
+   "fr": "supprimer le mot précédent",
+   "app": "Texte",
+   "level": 1
+  },
+  {
+   "k": "⌘⌫ (texte)",
+   "fr": "supprimer jusqu'au début de ligne",
+   "app": "Texte",
+   "level": 2
+  },
+  {
+   "k": "⌃A / ⌃E",
+   "fr": "début / fin de ligne (style emacs, partout)",
+   "app": "Texte",
+   "level": 2
+  },
+  {
+   "k": "⌃K",
+   "fr": "couper jusqu'à la fin de ligne",
+   "app": "Texte",
+   "level": 2
+  },
+  {
+   "k": "⌘⇧V",
+   "fr": "coller sans mise en forme (souvent)",
+   "app": "Texte",
+   "level": 2
+  },
+  {
+   "k": "⌘T",
+   "fr": "nouvel onglet",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘N",
+   "fr": "nouvelle fenêtre",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘W",
+   "fr": "fermer le panneau/onglet",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘D",
+   "fr": "split vertical (à droite)",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧D",
+   "fr": "split horizontal (en bas)",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘⌥←↑↓→",
+   "fr": "naviguer entre les splits",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧Entrée",
+   "fr": "zoomer/dézoomer le split actif",
+   "app": "Ghostty",
+   "level": 2
+  },
+  {
+   "k": "⌘K",
+   "fr": "effacer l'écran",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘⇧[ / ⌘⇧]",
+   "fr": "onglet précédent / suivant",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘1…9",
+   "fr": "aller à l'onglet n",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘+ / ⌘-",
+   "fr": "agrandir / réduire la police",
+   "app": "Ghostty",
+   "level": 1
+  },
+  {
+   "k": "⌘0",
+   "fr": "taille de police par défaut",
+   "app": "Ghostty",
+   "level": 2
+  },
+  {
+   "k": "⌘⇧,",
+   "fr": "recharger la config",
+   "app": "Ghostty",
+   "level": 2
+  },
+  {
+   "k": "⌘Entrée",
+   "fr": "plein écran",
+   "app": "Ghostty",
+   "level": 2
+  },
+  {
+   "k": "⌃R",
+   "fr": "rechercher dans l'historique",
+   "app": "Terminal",
+   "level": 1
+  },
+  {
+   "k": "⌃L",
+   "fr": "effacer l'écran",
+   "app": "Terminal",
+   "level": 1
+  },
+  {
+   "k": "⌃C",
+   "fr": "interrompre la commande",
+   "app": "Terminal",
+   "level": 1
+  },
+  {
+   "k": "⌃D",
+   "fr": "fin d'entrée / fermer le shell",
+   "app": "Terminal",
+   "level": 1
+  },
+  {
+   "k": "⌃Z",
+   "fr": "suspendre (reprendre : fg)",
+   "app": "Terminal",
+   "level": 2
+  },
+  {
+   "k": "⌃U",
+   "fr": "effacer toute la ligne",
+   "app": "Terminal",
+   "level": 1
+  },
+  {
+   "k": "⌃W",
+   "fr": "effacer le mot précédent",
+   "app": "Terminal",
+   "level": 1
+  },
+  {
+   "k": "!!",
+   "fr": "répéter la dernière commande",
+   "app": "Terminal",
+   "level": 2
+  },
+  {
+   "k": "⌃T",
+   "fr": "inverser les 2 derniers caractères",
+   "app": "Terminal",
+   "level": 2
+  },
+  {
+   "k": "⇧Tab",
+   "fr": "cycler les modes (auto-accept, plan)",
+   "app": "Claude Code",
+   "level": 1
+  },
+  {
+   "k": "Esc Esc",
+   "fr": "revenir en arrière dans la conversation",
+   "app": "Claude Code",
+   "level": 1
+  },
+  {
+   "k": "⌃B",
+   "fr": "mettre la tâche en arrière-plan",
+   "app": "Claude Code",
+   "level": 2
+  },
+  {
+   "k": "! en début de ligne",
+   "fr": "exécuter une commande bash directement",
+   "app": "Claude Code",
+   "level": 1
+  },
+  {
+   "k": "# en début de ligne",
+   "fr": "ajouter une note à la mémoire",
+   "app": "Claude Code",
+   "level": 2
+  }
+ ]
+}

@@ -1,1166 +1,1664 @@
 {
-  "lang": "hr",
-  "name": "Croate — deck de base",
-  "version": 2,
-  "entries": [
-    {
-      "hr": "da",
-      "fr": "oui",
-      "pron": "da",
-      "level": 1
-    },
-    {
-      "hr": "ne",
-      "fr": "non",
-      "pron": "né",
-      "level": 1
-    },
-    {
-      "hr": "hvala",
-      "fr": "merci",
-      "pron": "khvala",
-      "level": 1
-    },
-    {
-      "hr": "molim",
-      "fr": "s'il vous plaît / je vous en prie",
-      "pron": "molim",
-      "level": 1
-    },
-    {
-      "hr": "bok",
-      "fr": "salut",
-      "pron": "bok",
-      "level": 1
-    },
-    {
-      "hr": "dobro jutro",
-      "fr": "bonjour (le matin)",
-      "pron": "dobro youtro",
-      "level": 1
-    },
-    {
-      "hr": "dobar dan",
-      "fr": "bonjour",
-      "pron": "dobar dane",
-      "level": 1
-    },
-    {
-      "hr": "dobra večer",
-      "fr": "bonsoir",
-      "pron": "dobra vétchèr",
-      "level": 1
-    },
-    {
-      "hr": "laku noć",
-      "fr": "bonne nuit",
-      "pron": "lakou notch",
-      "level": 1
-    },
-    {
-      "hr": "doviđenja",
-      "fr": "au revoir",
-      "pron": "dovidjègna",
-      "level": 1
-    },
-    {
-      "hr": "oprostite",
-      "fr": "excusez-moi / pardon",
-      "pron": "oprostité",
-      "level": 1
-    },
-    {
-      "hr": "kuća",
-      "fr": "maison",
-      "pron": "koutcha",
-      "level": 1
-    },
-    {
-      "hr": "voda",
-      "fr": "eau",
-      "pron": "voda",
-      "level": 1
-    },
-    {
-      "hr": "kava",
-      "fr": "café",
-      "pron": "kava",
-      "level": 1
-    },
-    {
-      "hr": "pivo",
-      "fr": "bière",
-      "pron": "pivo",
-      "level": 1
-    },
-    {
-      "hr": "vino",
-      "fr": "vin",
-      "pron": "vino",
-      "level": 1
-    },
-    {
-      "hr": "kruh",
-      "fr": "pain",
-      "pron": "kroukh",
-      "level": 1
-    },
-    {
-      "hr": "more",
-      "fr": "mer",
-      "pron": "moré",
-      "level": 1
-    },
-    {
-      "hr": "sunce",
-      "fr": "soleil",
-      "pron": "sountsé",
-      "level": 1
-    },
-    {
-      "hr": "plaža",
-      "fr": "plage",
-      "pron": "plaja",
-      "level": 1
-    },
-    {
-      "hr": "otok",
-      "fr": "île",
-      "pron": "otok",
-      "level": 1
-    },
-    {
-      "hr": "grad",
-      "fr": "ville",
-      "pron": "grad",
-      "level": 1
-    },
-    {
-      "hr": "ulica",
-      "fr": "rue",
-      "pron": "oulitsa",
-      "level": 1
-    },
-    {
-      "hr": "trg",
-      "fr": "place (de ville)",
-      "pron": "teurg",
-      "level": 1
-    },
-    {
-      "hr": "novac",
-      "fr": "argent",
-      "pron": "novats",
-      "level": 1
-    },
-    {
-      "hr": "banka",
-      "fr": "banque",
-      "pron": "banka",
-      "level": 1
-    },
-    {
-      "hr": "posao",
-      "fr": "travail",
-      "pron": "possao",
-      "level": 1
-    },
-    {
-      "hr": "vrijeme",
-      "fr": "le temps / la météo",
-      "pron": "vriyèmé",
-      "level": 1
-    },
-    {
-      "hr": "danas",
-      "fr": "aujourd'hui",
-      "pron": "danass",
-      "level": 1
-    },
-    {
-      "hr": "sutra",
-      "fr": "demain",
-      "pron": "soutra",
-      "level": 1
-    },
-    {
-      "hr": "jučer",
-      "fr": "hier",
-      "pron": "youtchèr",
-      "level": 1
-    },
-    {
-      "hr": "sada",
-      "fr": "maintenant",
-      "pron": "sada",
-      "level": 1
-    },
-    {
-      "hr": "ovdje",
-      "fr": "ici",
-      "pron": "ovdyé",
-      "level": 1
-    },
-    {
-      "hr": "tamo",
-      "fr": "là-bas",
-      "pron": "tamo",
-      "level": 1
-    },
-    {
-      "hr": "lijepo",
-      "fr": "beau, joli",
-      "pron": "liyèpo",
-      "level": 1
-    },
-    {
-      "hr": "dobro",
-      "fr": "bien, bon",
-      "pron": "dobro",
-      "level": 1
-    },
-    {
-      "hr": "loše",
-      "fr": "mauvais",
-      "pron": "loché",
-      "level": 1
-    },
-    {
-      "hr": "veliko",
-      "fr": "grand",
-      "pron": "véliko",
-      "level": 1
-    },
-    {
-      "hr": "malo",
-      "fr": "petit / un peu",
-      "pron": "malo",
-      "level": 1
-    },
-    {
-      "hr": "puno",
-      "fr": "beaucoup",
-      "pron": "pouno",
-      "level": 1
-    },
-    {
-      "hr": "jesti",
-      "fr": "manger",
-      "pron": "yèsti",
-      "level": 1
-    },
-    {
-      "hr": "piti",
-      "fr": "boire",
-      "pron": "piti",
-      "level": 1
-    },
-    {
-      "hr": "ići",
-      "fr": "aller",
-      "pron": "itchi",
-      "level": 1
-    },
-    {
-      "hr": "raditi",
-      "fr": "travailler",
-      "pron": "raditi",
-      "level": 1
-    },
-    {
-      "hr": "spavati",
-      "fr": "dormir",
-      "pron": "spavati",
-      "level": 1
-    },
-    {
-      "hr": "govoriti",
-      "fr": "parler",
-      "pron": "govoriti",
-      "level": 1
-    },
-    {
-      "hr": "razumjeti",
-      "fr": "comprendre",
-      "pron": "razoumyèti",
-      "level": 1
-    },
-    {
-      "hr": "znati",
-      "fr": "savoir",
-      "pron": "znati",
-      "level": 1
-    },
-    {
-      "hr": "htjeti",
-      "fr": "vouloir",
-      "pron": "khtyèti",
-      "level": 1
-    },
-    {
-      "hr": "trebati",
-      "fr": "avoir besoin de",
-      "pron": "trébati",
-      "level": 1
-    },
-    {
-      "hr": "voljeti",
-      "fr": "aimer",
-      "pron": "volyèti",
-      "level": 1
-    },
-    {
-      "hr": "kupiti",
-      "fr": "acheter",
-      "pron": "koupiti",
-      "level": 1
-    },
-    {
-      "hr": "prijatelj",
-      "fr": "ami",
-      "pron": "priyatèl",
-      "level": 1
-    },
-    {
-      "hr": "obitelj",
-      "fr": "famille",
-      "pron": "obitèl",
-      "level": 1
-    },
-    {
-      "hr": "žena",
-      "fr": "femme / épouse",
-      "pron": "jèna",
-      "level": 1
-    },
-    {
-      "hr": "muž",
-      "fr": "mari",
-      "pron": "mouj",
-      "level": 1
-    },
-    {
-      "hr": "dijete",
-      "fr": "enfant",
-      "pron": "diyèté",
-      "level": 1
-    },
-    {
-      "hr": "pas",
-      "fr": "chien",
-      "pron": "pass",
-      "level": 1
-    },
-    {
-      "hr": "mačka",
-      "fr": "chat",
-      "pron": "matchka",
-      "level": 1
-    },
-    {
-      "hr": "jedan",
-      "fr": "un (1)",
-      "pron": "yédane",
-      "level": 1
-    },
-    {
-      "hr": "dva",
-      "fr": "deux (2)",
-      "pron": "dva",
-      "level": 1
-    },
-    {
-      "hr": "tri",
-      "fr": "trois (3)",
-      "pron": "tri",
-      "level": 1
-    },
-    {
-      "hr": "četiri",
-      "fr": "quatre (4)",
-      "pron": "tchétiri",
-      "level": 1
-    },
-    {
-      "hr": "pet",
-      "fr": "cinq (5)",
-      "pron": "pèt",
-      "level": 1
-    },
-    {
-      "hr": "šest",
-      "fr": "six (6)",
-      "pron": "chèst",
-      "level": 1
-    },
-    {
-      "hr": "sedam",
-      "fr": "sept (7)",
-      "pron": "sédame",
-      "level": 1
-    },
-    {
-      "hr": "osam",
-      "fr": "huit (8)",
-      "pron": "ossame",
-      "level": 1
-    },
-    {
-      "hr": "devet",
-      "fr": "neuf (9)",
-      "pron": "dévèt",
-      "level": 1
-    },
-    {
-      "hr": "deset",
-      "fr": "dix (10)",
-      "pron": "déssèt",
-      "level": 1
-    },
-    {
-      "hr": "sto",
-      "fr": "cent (100)",
-      "pron": "sto",
-      "level": 1
-    },
-    {
-      "hr": "tisuća",
-      "fr": "mille (1000)",
-      "pron": "tissoutcha",
-      "level": 1
-    },
-    {
-      "hr": "ljeto",
-      "fr": "été",
-      "pron": "lyèto",
-      "level": 1
-    },
-    {
-      "hr": "zima",
-      "fr": "hiver",
-      "pron": "zima",
-      "level": 1
-    },
-    {
-      "hr": "hrana",
-      "fr": "nourriture",
-      "pron": "khrana",
-      "level": 1
-    },
-    {
-      "hr": "riba",
-      "fr": "poisson",
-      "pron": "riba",
-      "level": 1
-    },
-    {
-      "hr": "meso",
-      "fr": "viande",
-      "pron": "mésso",
-      "level": 1
-    },
-    {
-      "hr": "sir",
-      "fr": "fromage",
-      "pron": "sir",
-      "level": 1
-    },
-    {
-      "hr": "jabuka",
-      "fr": "pomme",
-      "pron": "yabouka",
-      "level": 1
-    },
-    {
-      "hr": "mlijeko",
-      "fr": "lait",
-      "pron": "mliyéko",
-      "level": 1
-    },
-    {
-      "hr": "auto",
-      "fr": "voiture",
-      "pron": "aouto",
-      "level": 1
-    },
-    {
-      "hr": "zračna luka",
-      "fr": "aéroport",
-      "pron": "zratchna louka",
-      "level": 1
-    },
-    {
-      "hr": "vlak",
-      "fr": "train",
-      "pron": "vlak",
-      "level": 1
-    },
-    {
-      "hr": "brod",
-      "fr": "bateau",
-      "pron": "brod",
-      "level": 1
-    },
-    {
-      "hr": "lijevo",
-      "fr": "à gauche",
-      "pron": "liyèvo",
-      "level": 1
-    },
-    {
-      "hr": "desno",
-      "fr": "à droite",
-      "pron": "dèsno",
-      "level": 1
-    },
-    {
-      "hr": "ravno",
-      "fr": "tout droit",
-      "pron": "ravno",
-      "level": 1
-    },
-    {
-      "hr": "ključ",
-      "fr": "clé",
-      "pron": "klyoutch",
-      "level": 1
-    },
-    {
-      "hr": "račun",
-      "fr": "l'addition / la facture",
-      "pron": "ratchoune",
-      "level": 1
-    },
-    {
-      "hr": "cijena",
-      "fr": "prix",
-      "pron": "tsiyèna",
-      "level": 1
-    },
-    {
-      "hr": "jeftino",
-      "fr": "pas cher",
-      "pron": "yèftino",
-      "level": 1
-    },
-    {
-      "hr": "skupo",
-      "fr": "cher (prix)",
-      "pron": "skoupo",
-      "level": 1
-    },
-    {
-      "hr": "Kako ste?",
-      "fr": "Comment allez-vous ?",
-      "pron": "kako sté",
-      "level": 2
-    },
-    {
-      "hr": "Kako si?",
-      "fr": "Comment vas-tu ?",
-      "pron": "kako si",
-      "level": 2
-    },
-    {
-      "hr": "Dobro sam",
-      "fr": "Je vais bien",
-      "pron": "dobro same",
-      "level": 2
-    },
-    {
-      "hr": "Kako se zoveš?",
-      "fr": "Comment tu t'appelles ?",
-      "pron": "kako sé zovèch",
-      "level": 2
-    },
-    {
-      "hr": "Zovem se …",
-      "fr": "Je m'appelle …",
-      "pron": "zovème sé …e",
-      "level": 2
-    },
-    {
-      "hr": "Drago mi je",
-      "fr": "Enchanté",
-      "pron": "drago mi yé",
-      "level": 2
-    },
-    {
-      "hr": "Ne razumijem",
-      "fr": "Je ne comprends pas",
-      "pron": "né razoumiyème",
-      "level": 2
-    },
-    {
-      "hr": "Govorite li engleski?",
-      "fr": "Parlez-vous anglais ?",
-      "pron": "govorité li ènglèski",
-      "level": 2
-    },
-    {
-      "hr": "Učim hrvatski",
-      "fr": "J'apprends le croate",
-      "pron": "outchime khrvatski",
-      "level": 2
-    },
-    {
-      "hr": "Koliko košta?",
-      "fr": "Combien ça coûte ?",
-      "pron": "koliko kochta",
-      "level": 2
-    },
-    {
-      "hr": "Gdje je...?",
-      "fr": "Où est... ?",
-      "pron": "gdyé yé",
-      "level": 2
-    },
-    {
-      "hr": "Gdje je WC?",
-      "fr": "Où sont les toilettes ?",
-      "pron": "gdyé yé vétsé",
-      "level": 2
-    },
-    {
-      "hr": "Jedno pivo, molim",
-      "fr": "Une bière, s'il vous plaît",
-      "pron": "yèdno pivo molime",
-      "level": 2
-    },
-    {
-      "hr": "Račun, molim",
-      "fr": "L'addition, s'il vous plaît",
-      "pron": "ratchoune molime",
-      "level": 2
-    },
-    {
-      "hr": "Živjeli!",
-      "fr": "Santé ! (trinquer)",
-      "pron": "jivyèli",
-      "level": 2
-    },
-    {
-      "hr": "Dobar tek!",
-      "fr": "Bon appétit !",
-      "pron": "dobar tèk",
-      "level": 2
-    },
-    {
-      "hr": "Sretan put!",
-      "fr": "Bon voyage !",
-      "pron": "srètane pout",
-      "level": 2
-    },
-    {
-      "hr": "Volim te",
-      "fr": "Je t'aime",
-      "pron": "volime té",
-      "level": 2
-    },
-    {
-      "hr": "Vidimo se sutra",
-      "fr": "On se voit demain",
-      "pron": "vidimo sé soutra",
-      "level": 2
-    },
-    {
-      "hr": "Nema problema",
-      "fr": "Pas de problème",
-      "pron": "néma probléma",
-      "level": 2
-    },
-    {
-      "hr": "Sve je u redu",
-      "fr": "Tout va bien",
-      "pron": "své yé ou rédou",
-      "level": 2
-    },
-    {
-      "hr": "Trebam pomoć",
-      "fr": "J'ai besoin d'aide",
-      "pron": "trébame pomotch",
-      "level": 2
-    },
-    {
-      "hr": "Koliko je sati?",
-      "fr": "Quelle heure est-il ?",
-      "pron": "koliko yé sati",
-      "level": 2
-    },
-    {
-      "hr": "Može!",
-      "fr": "Ça marche ! / OK !",
-      "pron": "mojé",
-      "level": 2
-    },
-    {
-      "hr": "Polako",
-      "fr": "doucement, tranquille (très croate)",
-      "pron": "polako",
-      "level": 2
-    },
-    {
-      "hr": "Pomalo!",
-      "fr": "tranquille, cool (esprit dalmate)",
-      "pron": "pomalo",
-      "level": 2
-    },
-    {
-      "hr": "ponedjeljak",
-      "fr": "lundi",
-      "pron": "ponédyèlyak",
-      "level": 1
-    },
-    {
-      "hr": "utorak",
-      "fr": "mardi",
-      "pron": "outorak",
-      "level": 1
-    },
-    {
-      "hr": "srijeda",
-      "fr": "mercredi",
-      "pron": "sriyèda",
-      "level": 1
-    },
-    {
-      "hr": "četvrtak",
-      "fr": "jeudi",
-      "pron": "tchètveurtak",
-      "level": 1
-    },
-    {
-      "hr": "petak",
-      "fr": "vendredi",
-      "pron": "pétak",
-      "level": 1
-    },
-    {
-      "hr": "subota",
-      "fr": "samedi",
-      "pron": "soubota",
-      "level": 1
-    },
-    {
-      "hr": "nedjelja",
-      "fr": "dimanche",
-      "pron": "nédyèlya",
-      "level": 1
-    },
-    {
-      "hr": "dan",
-      "fr": "jour",
-      "pron": "dane",
-      "level": 1
-    },
-    {
-      "hr": "noć",
-      "fr": "nuit",
-      "pron": "notch",
-      "level": 1
-    },
-    {
-      "hr": "tjedan",
-      "fr": "semaine",
-      "pron": "tyédane",
-      "level": 1
-    },
-    {
-      "hr": "mjesec",
-      "fr": "mois / lune",
-      "pron": "myéssèts",
-      "level": 1
-    },
-    {
-      "hr": "godina",
-      "fr": "année",
-      "pron": "godina",
-      "level": 1
-    },
-    {
-      "hr": "sat",
-      "fr": "heure / montre",
-      "pron": "sat",
-      "level": 1
-    },
-    {
-      "hr": "jutro",
-      "fr": "matin",
-      "pron": "youtro",
-      "level": 1
-    },
-    {
-      "hr": "stan",
-      "fr": "appartement",
-      "pron": "stane",
-      "level": 1
-    },
-    {
-      "hr": "najam",
-      "fr": "location, loyer",
-      "pron": "nayame",
-      "level": 1
-    },
-    {
-      "hr": "ugovor",
-      "fr": "contrat",
-      "pron": "ougovor",
-      "level": 1
-    },
-    {
-      "hr": "porez",
-      "fr": "impôt",
-      "pron": "porèz",
-      "level": 1
-    },
-    {
-      "hr": "boravišna dozvola",
-      "fr": "permis de séjour",
-      "pron": "boravichna dozvola",
-      "level": 1
-    },
-    {
-      "hr": "osiguranje",
-      "fr": "assurance",
-      "pron": "ossigouragné",
-      "level": 1
-    },
-    {
-      "hr": "liječnik",
-      "fr": "médecin",
-      "pron": "liyètchnik",
-      "level": 1
-    },
-    {
-      "hr": "bolnica",
-      "fr": "hôpital",
-      "pron": "bolnitsa",
-      "level": 1
-    },
-    {
-      "hr": "ljekarna",
-      "fr": "pharmacie",
-      "pron": "lyékarna",
-      "level": 1
-    },
-    {
-      "hr": "pošta",
-      "fr": "bureau de poste",
-      "pron": "pochta",
-      "level": 1
-    },
-    {
-      "hr": "trgovina",
-      "fr": "magasin",
-      "pron": "teurgovina",
-      "level": 1
-    },
-    {
-      "hr": "tržnica",
-      "fr": "marché",
-      "pron": "teurjnitsa",
-      "level": 1
-    },
-    {
-      "hr": "zdravlje",
-      "fr": "santé",
-      "pron": "zdravlyé",
-      "level": 1
-    },
-    {
-      "hr": "zemlja",
-      "fr": "pays / terre",
-      "pron": "zèmlya",
-      "level": 1
-    },
-    {
-      "hr": "jezik",
-      "fr": "langue",
-      "pron": "yézik",
-      "level": 1
-    },
-    {
-      "hr": "ime",
-      "fr": "nom, prénom",
-      "pron": "imé",
-      "level": 1
-    },
-    {
-      "hr": "ljudi",
-      "fr": "les gens",
-      "pron": "lyoudi",
-      "level": 1
-    },
-    {
-      "hr": "majka",
-      "fr": "mère",
-      "pron": "maïka",
-      "level": 1
-    },
-    {
-      "hr": "otac",
-      "fr": "père",
-      "pron": "otats",
-      "level": 1
-    },
-    {
-      "hr": "brat",
-      "fr": "frère",
-      "pron": "brat",
-      "level": 1
-    },
-    {
-      "hr": "sestra",
-      "fr": "sœur",
-      "pron": "sèstra",
-      "level": 1
-    },
-    {
-      "hr": "biti",
-      "fr": "être",
-      "pron": "biti",
-      "level": 1
-    },
-    {
-      "hr": "imati",
-      "fr": "avoir",
-      "pron": "imati",
-      "level": 1
-    },
-    {
-      "hr": "doći",
-      "fr": "venir",
-      "pron": "dotchi",
-      "level": 1
-    },
-    {
-      "hr": "vidjeti",
-      "fr": "voir",
-      "pron": "vidyèti",
-      "level": 1
-    },
-    {
-      "hr": "misliti",
-      "fr": "penser",
-      "pron": "misliti",
-      "level": 1
-    },
-    {
-      "hr": "platiti",
-      "fr": "payer",
-      "pron": "platiti",
-      "level": 1
-    },
-    {
-      "hr": "tražiti",
-      "fr": "chercher",
-      "pron": "trajiti",
-      "level": 1
-    },
-    {
-      "hr": "naći",
-      "fr": "trouver",
-      "pron": "natchi",
-      "level": 1
-    },
-    {
-      "hr": "pomoći",
-      "fr": "aider",
-      "pron": "pomotchi",
-      "level": 1
-    },
-    {
-      "hr": "čekati",
-      "fr": "attendre",
-      "pron": "tchékati",
-      "level": 1
-    },
-    {
-      "hr": "živjeti",
-      "fr": "vivre, habiter",
-      "pron": "jivyèti",
-      "level": 1
-    },
-    {
-      "hr": "što",
-      "fr": "quoi",
-      "pron": "chto",
-      "level": 1
-    },
-    {
-      "hr": "tko",
-      "fr": "qui",
-      "pron": "tko",
-      "level": 1
-    },
-    {
-      "hr": "kada",
-      "fr": "quand",
-      "pron": "kada",
-      "level": 1
-    },
-    {
-      "hr": "gdje",
-      "fr": "où",
-      "pron": "gdyé",
-      "level": 1
-    },
-    {
-      "hr": "kako",
-      "fr": "comment",
-      "pron": "kako",
-      "level": 1
-    },
-    {
-      "hr": "zašto",
-      "fr": "pourquoi",
-      "pron": "zachto",
-      "level": 1
-    },
-    {
-      "hr": "uvijek",
-      "fr": "toujours",
-      "pron": "ouviyèk",
-      "level": 1
-    },
-    {
-      "hr": "nikad",
-      "fr": "jamais",
-      "pron": "nikad",
-      "level": 1
-    },
-    {
-      "hr": "možda",
-      "fr": "peut-être",
-      "pron": "mojda",
-      "level": 1
-    },
-    {
-      "hr": "i",
-      "fr": "et",
-      "pron": "i",
-      "level": 1
-    },
-    {
-      "hr": "ali",
-      "fr": "mais",
-      "pron": "ali",
-      "level": 1
-    },
-    {
-      "hr": "ili",
-      "fr": "ou",
-      "pron": "ili",
-      "level": 1
-    },
-    {
-      "hr": "Ja sam iz Francuske",
-      "fr": "Je viens de France",
-      "pron": "ya same iz frantsouské",
-      "level": 2
-    },
-    {
-      "hr": "Živim na Tahitiju",
-      "fr": "J'habite à Tahiti",
-      "pron": "jivime na tahitiyou",
-      "level": 2
-    },
-    {
-      "hr": "Mogu li platiti karticom?",
-      "fr": "Je peux payer par carte ?",
-      "pron": "mogou li platiti kartitsome",
-      "level": 2
-    },
-    {
-      "hr": "Trebam liječnika",
-      "fr": "J'ai besoin d'un médecin",
-      "pron": "trébame liyètchnika",
-      "level": 2
-    },
-    {
-      "hr": "Ne znam",
-      "fr": "Je ne sais pas",
-      "pron": "né zname",
-      "level": 2
-    },
-    {
-      "hr": "Naravno",
-      "fr": "Bien sûr",
-      "pron": "naravno",
-      "level": 2
-    },
-    {
-      "hr": "Nema na čemu",
-      "fr": "De rien",
-      "pron": "néma na tchémou",
-      "level": 2
-    },
-    {
-      "hr": "U redu",
-      "fr": "D'accord",
-      "pron": "ou rédou",
-      "level": 2
-    },
-    {
-      "hr": "Sretno!",
-      "fr": "Bonne chance !",
-      "pron": "srètno",
-      "level": 2
-    },
-    {
-      "hr": "Dobrodošli!",
-      "fr": "Bienvenue !",
-      "pron": "dobrodochli",
-      "level": 2
-    },
-    {
-      "hr": "Ugodan dan!",
-      "fr": "Bonne journée !",
-      "pron": "ougodane dane",
-      "level": 2
-    },
-    {
-      "hr": "Gladan sam",
-      "fr": "J'ai faim",
-      "pron": "gladane same",
-      "level": 2
-    },
-    {
-      "hr": "Žedan sam",
-      "fr": "J'ai soif",
-      "pron": "jédane same",
-      "level": 2
-    },
-    {
-      "hr": "Umoran sam",
-      "fr": "Je suis fatigué",
-      "pron": "oumorane same",
-      "level": 2
-    },
-    {
-      "hr": "Idemo!",
-      "fr": "Allons-y !",
-      "pron": "idémo",
-      "level": 2
-    },
-    {
-      "hr": "Sviđa mi se",
-      "fr": "Ça me plaît",
-      "pron": "svidja mi sé",
-      "level": 2
-    },
-    {
-      "hr": "Kako se kaže...?",
-      "fr": "Comment dit-on... ?",
-      "pron": "kako sé kajé",
-      "level": 2
-    },
-    {
-      "hr": "Vidimo se!",
-      "fr": "À plus !",
-      "pron": "vidimo sé",
-      "level": 2
-    }
-  ],
-  "flag": "🇭🇷"
+ "lang": "hr",
+ "name": "Croate — deck de base",
+ "version": 3,
+ "entries": [
+  {
+   "hr": "da",
+   "fr": "oui",
+   "pron": "da",
+   "level": 1
+  },
+  {
+   "hr": "ne",
+   "fr": "non",
+   "pron": "né",
+   "level": 1
+  },
+  {
+   "hr": "hvala",
+   "fr": "merci",
+   "pron": "khvala",
+   "level": 1
+  },
+  {
+   "hr": "molim",
+   "fr": "s'il vous plaît / je vous en prie",
+   "pron": "molim",
+   "level": 1
+  },
+  {
+   "hr": "bok",
+   "fr": "salut",
+   "pron": "bok",
+   "level": 1
+  },
+  {
+   "hr": "dobro jutro",
+   "fr": "bonjour (le matin)",
+   "pron": "dobro youtro",
+   "level": 1
+  },
+  {
+   "hr": "dobar dan",
+   "fr": "bonjour",
+   "pron": "dobar dane",
+   "level": 1
+  },
+  {
+   "hr": "dobra večer",
+   "fr": "bonsoir",
+   "pron": "dobra vétchèr",
+   "level": 1
+  },
+  {
+   "hr": "laku noć",
+   "fr": "bonne nuit",
+   "pron": "lakou notch",
+   "level": 1
+  },
+  {
+   "hr": "doviđenja",
+   "fr": "au revoir",
+   "pron": "dovidjègna",
+   "level": 1
+  },
+  {
+   "hr": "oprostite",
+   "fr": "excusez-moi / pardon",
+   "pron": "oprostité",
+   "level": 1
+  },
+  {
+   "hr": "kuća",
+   "fr": "maison",
+   "pron": "koutcha",
+   "level": 1
+  },
+  {
+   "hr": "voda",
+   "fr": "eau",
+   "pron": "voda",
+   "level": 1
+  },
+  {
+   "hr": "kava",
+   "fr": "café",
+   "pron": "kava",
+   "level": 1
+  },
+  {
+   "hr": "pivo",
+   "fr": "bière",
+   "pron": "pivo",
+   "level": 1
+  },
+  {
+   "hr": "vino",
+   "fr": "vin",
+   "pron": "vino",
+   "level": 1
+  },
+  {
+   "hr": "kruh",
+   "fr": "pain",
+   "pron": "kroukh",
+   "level": 1
+  },
+  {
+   "hr": "more",
+   "fr": "mer",
+   "pron": "moré",
+   "level": 1
+  },
+  {
+   "hr": "sunce",
+   "fr": "soleil",
+   "pron": "sountsé",
+   "level": 1
+  },
+  {
+   "hr": "plaža",
+   "fr": "plage",
+   "pron": "plaja",
+   "level": 1
+  },
+  {
+   "hr": "otok",
+   "fr": "île",
+   "pron": "otok",
+   "level": 1
+  },
+  {
+   "hr": "grad",
+   "fr": "ville",
+   "pron": "grad",
+   "level": 1
+  },
+  {
+   "hr": "ulica",
+   "fr": "rue",
+   "pron": "oulitsa",
+   "level": 1
+  },
+  {
+   "hr": "trg",
+   "fr": "place (de ville)",
+   "pron": "teurg",
+   "level": 1
+  },
+  {
+   "hr": "novac",
+   "fr": "argent",
+   "pron": "novats",
+   "level": 1
+  },
+  {
+   "hr": "banka",
+   "fr": "banque",
+   "pron": "banka",
+   "level": 1
+  },
+  {
+   "hr": "posao",
+   "fr": "travail",
+   "pron": "possao",
+   "level": 1
+  },
+  {
+   "hr": "vrijeme",
+   "fr": "le temps / la météo",
+   "pron": "vriyèmé",
+   "level": 1
+  },
+  {
+   "hr": "danas",
+   "fr": "aujourd'hui",
+   "pron": "danass",
+   "level": 1
+  },
+  {
+   "hr": "sutra",
+   "fr": "demain",
+   "pron": "soutra",
+   "level": 1
+  },
+  {
+   "hr": "jučer",
+   "fr": "hier",
+   "pron": "youtchèr",
+   "level": 1
+  },
+  {
+   "hr": "sada",
+   "fr": "maintenant",
+   "pron": "sada",
+   "level": 1
+  },
+  {
+   "hr": "ovdje",
+   "fr": "ici",
+   "pron": "ovdyé",
+   "level": 1
+  },
+  {
+   "hr": "tamo",
+   "fr": "là-bas",
+   "pron": "tamo",
+   "level": 1
+  },
+  {
+   "hr": "lijepo",
+   "fr": "beau, joli",
+   "pron": "liyèpo",
+   "level": 1
+  },
+  {
+   "hr": "dobro",
+   "fr": "bien, bon",
+   "pron": "dobro",
+   "level": 1
+  },
+  {
+   "hr": "loše",
+   "fr": "mauvais",
+   "pron": "loché",
+   "level": 1
+  },
+  {
+   "hr": "veliko",
+   "fr": "grand",
+   "pron": "véliko",
+   "level": 1
+  },
+  {
+   "hr": "malo",
+   "fr": "petit / un peu",
+   "pron": "malo",
+   "level": 1
+  },
+  {
+   "hr": "puno",
+   "fr": "beaucoup",
+   "pron": "pouno",
+   "level": 1
+  },
+  {
+   "hr": "jesti",
+   "fr": "manger",
+   "pron": "yèsti",
+   "level": 1
+  },
+  {
+   "hr": "piti",
+   "fr": "boire",
+   "pron": "piti",
+   "level": 1
+  },
+  {
+   "hr": "ići",
+   "fr": "aller",
+   "pron": "itchi",
+   "level": 1
+  },
+  {
+   "hr": "raditi",
+   "fr": "travailler",
+   "pron": "raditi",
+   "level": 1
+  },
+  {
+   "hr": "spavati",
+   "fr": "dormir",
+   "pron": "spavati",
+   "level": 1
+  },
+  {
+   "hr": "govoriti",
+   "fr": "parler",
+   "pron": "govoriti",
+   "level": 1
+  },
+  {
+   "hr": "razumjeti",
+   "fr": "comprendre",
+   "pron": "razoumyèti",
+   "level": 1
+  },
+  {
+   "hr": "znati",
+   "fr": "savoir",
+   "pron": "znati",
+   "level": 1
+  },
+  {
+   "hr": "htjeti",
+   "fr": "vouloir",
+   "pron": "khtyèti",
+   "level": 1
+  },
+  {
+   "hr": "trebati",
+   "fr": "avoir besoin de",
+   "pron": "trébati",
+   "level": 1
+  },
+  {
+   "hr": "voljeti",
+   "fr": "aimer",
+   "pron": "volyèti",
+   "level": 1
+  },
+  {
+   "hr": "kupiti",
+   "fr": "acheter",
+   "pron": "koupiti",
+   "level": 1
+  },
+  {
+   "hr": "prijatelj",
+   "fr": "ami",
+   "pron": "priyatèl",
+   "level": 1
+  },
+  {
+   "hr": "obitelj",
+   "fr": "famille",
+   "pron": "obitèl",
+   "level": 1
+  },
+  {
+   "hr": "žena",
+   "fr": "femme / épouse",
+   "pron": "jèna",
+   "level": 1
+  },
+  {
+   "hr": "muž",
+   "fr": "mari",
+   "pron": "mouj",
+   "level": 1
+  },
+  {
+   "hr": "dijete",
+   "fr": "enfant",
+   "pron": "diyèté",
+   "level": 1
+  },
+  {
+   "hr": "pas",
+   "fr": "chien",
+   "pron": "pass",
+   "level": 1
+  },
+  {
+   "hr": "mačka",
+   "fr": "chat",
+   "pron": "matchka",
+   "level": 1
+  },
+  {
+   "hr": "jedan",
+   "fr": "un (1)",
+   "pron": "yédane",
+   "level": 1
+  },
+  {
+   "hr": "dva",
+   "fr": "deux (2)",
+   "pron": "dva",
+   "level": 1
+  },
+  {
+   "hr": "tri",
+   "fr": "trois (3)",
+   "pron": "tri",
+   "level": 1
+  },
+  {
+   "hr": "četiri",
+   "fr": "quatre (4)",
+   "pron": "tchétiri",
+   "level": 1
+  },
+  {
+   "hr": "pet",
+   "fr": "cinq (5)",
+   "pron": "pèt",
+   "level": 1
+  },
+  {
+   "hr": "šest",
+   "fr": "six (6)",
+   "pron": "chèst",
+   "level": 1
+  },
+  {
+   "hr": "sedam",
+   "fr": "sept (7)",
+   "pron": "sédame",
+   "level": 1
+  },
+  {
+   "hr": "osam",
+   "fr": "huit (8)",
+   "pron": "ossame",
+   "level": 1
+  },
+  {
+   "hr": "devet",
+   "fr": "neuf (9)",
+   "pron": "dévèt",
+   "level": 1
+  },
+  {
+   "hr": "deset",
+   "fr": "dix (10)",
+   "pron": "déssèt",
+   "level": 1
+  },
+  {
+   "hr": "sto",
+   "fr": "cent (100)",
+   "pron": "sto",
+   "level": 1
+  },
+  {
+   "hr": "tisuća",
+   "fr": "mille (1000)",
+   "pron": "tissoutcha",
+   "level": 1
+  },
+  {
+   "hr": "ljeto",
+   "fr": "été",
+   "pron": "lyèto",
+   "level": 1
+  },
+  {
+   "hr": "zima",
+   "fr": "hiver",
+   "pron": "zima",
+   "level": 1
+  },
+  {
+   "hr": "hrana",
+   "fr": "nourriture",
+   "pron": "khrana",
+   "level": 1
+  },
+  {
+   "hr": "riba",
+   "fr": "poisson",
+   "pron": "riba",
+   "level": 1
+  },
+  {
+   "hr": "meso",
+   "fr": "viande",
+   "pron": "mésso",
+   "level": 1
+  },
+  {
+   "hr": "sir",
+   "fr": "fromage",
+   "pron": "sir",
+   "level": 1
+  },
+  {
+   "hr": "jabuka",
+   "fr": "pomme",
+   "pron": "yabouka",
+   "level": 1
+  },
+  {
+   "hr": "mlijeko",
+   "fr": "lait",
+   "pron": "mliyéko",
+   "level": 1
+  },
+  {
+   "hr": "auto",
+   "fr": "voiture",
+   "pron": "aouto",
+   "level": 1
+  },
+  {
+   "hr": "zračna luka",
+   "fr": "aéroport",
+   "pron": "zratchna louka",
+   "level": 1
+  },
+  {
+   "hr": "vlak",
+   "fr": "train",
+   "pron": "vlak",
+   "level": 1
+  },
+  {
+   "hr": "brod",
+   "fr": "bateau",
+   "pron": "brod",
+   "level": 1
+  },
+  {
+   "hr": "lijevo",
+   "fr": "à gauche",
+   "pron": "liyèvo",
+   "level": 1
+  },
+  {
+   "hr": "desno",
+   "fr": "à droite",
+   "pron": "dèsno",
+   "level": 1
+  },
+  {
+   "hr": "ravno",
+   "fr": "tout droit",
+   "pron": "ravno",
+   "level": 1
+  },
+  {
+   "hr": "ključ",
+   "fr": "clé",
+   "pron": "klyoutch",
+   "level": 1
+  },
+  {
+   "hr": "račun",
+   "fr": "l'addition / la facture",
+   "pron": "ratchoune",
+   "level": 1
+  },
+  {
+   "hr": "cijena",
+   "fr": "prix",
+   "pron": "tsiyèna",
+   "level": 1
+  },
+  {
+   "hr": "jeftino",
+   "fr": "pas cher",
+   "pron": "yèftino",
+   "level": 1
+  },
+  {
+   "hr": "skupo",
+   "fr": "cher (prix)",
+   "pron": "skoupo",
+   "level": 1
+  },
+  {
+   "hr": "Kako ste?",
+   "fr": "Comment allez-vous ?",
+   "pron": "kako sté",
+   "level": 2
+  },
+  {
+   "hr": "Kako si?",
+   "fr": "Comment vas-tu ?",
+   "pron": "kako si",
+   "level": 2
+  },
+  {
+   "hr": "Dobro sam",
+   "fr": "Je vais bien",
+   "pron": "dobro same",
+   "level": 2
+  },
+  {
+   "hr": "Kako se zoveš?",
+   "fr": "Comment tu t'appelles ?",
+   "pron": "kako sé zovèch",
+   "level": 2
+  },
+  {
+   "hr": "Zovem se …",
+   "fr": "Je m'appelle …",
+   "pron": "zovème sé …",
+   "level": 2
+  },
+  {
+   "hr": "Drago mi je",
+   "fr": "Enchanté",
+   "pron": "drago mi yé",
+   "level": 2
+  },
+  {
+   "hr": "Ne razumijem",
+   "fr": "Je ne comprends pas",
+   "pron": "né razoumiyème",
+   "level": 2
+  },
+  {
+   "hr": "Govorite li engleski?",
+   "fr": "Parlez-vous anglais ?",
+   "pron": "govorité li ènglèski",
+   "level": 2
+  },
+  {
+   "hr": "Učim hrvatski",
+   "fr": "J'apprends le croate",
+   "pron": "outchime khrvatski",
+   "level": 2
+  },
+  {
+   "hr": "Koliko košta?",
+   "fr": "Combien ça coûte ?",
+   "pron": "koliko kochta",
+   "level": 2
+  },
+  {
+   "hr": "Gdje je...?",
+   "fr": "Où est... ?",
+   "pron": "gdyé yé",
+   "level": 2
+  },
+  {
+   "hr": "Gdje je WC?",
+   "fr": "Où sont les toilettes ?",
+   "pron": "gdyé yé vétsé",
+   "level": 2
+  },
+  {
+   "hr": "Jedno pivo, molim",
+   "fr": "Une bière, s'il vous plaît",
+   "pron": "yèdno pivo molime",
+   "level": 2
+  },
+  {
+   "hr": "Račun, molim",
+   "fr": "L'addition, s'il vous plaît",
+   "pron": "ratchoune molime",
+   "level": 2
+  },
+  {
+   "hr": "Živjeli!",
+   "fr": "Santé ! (trinquer)",
+   "pron": "jivyèli",
+   "level": 2
+  },
+  {
+   "hr": "Dobar tek!",
+   "fr": "Bon appétit !",
+   "pron": "dobar tèk",
+   "level": 2
+  },
+  {
+   "hr": "Sretan put!",
+   "fr": "Bon voyage !",
+   "pron": "srètane pout",
+   "level": 2
+  },
+  {
+   "hr": "Volim te",
+   "fr": "Je t'aime",
+   "pron": "volime té",
+   "level": 2
+  },
+  {
+   "hr": "Vidimo se sutra",
+   "fr": "On se voit demain",
+   "pron": "vidimo sé soutra",
+   "level": 2
+  },
+  {
+   "hr": "Nema problema",
+   "fr": "Pas de problème",
+   "pron": "néma probléma",
+   "level": 2
+  },
+  {
+   "hr": "Sve je u redu",
+   "fr": "Tout va bien",
+   "pron": "své yé ou rédou",
+   "level": 2
+  },
+  {
+   "hr": "Trebam pomoć",
+   "fr": "J'ai besoin d'aide",
+   "pron": "trébame pomotch",
+   "level": 2
+  },
+  {
+   "hr": "Koliko je sati?",
+   "fr": "Quelle heure est-il ?",
+   "pron": "koliko yé sati",
+   "level": 2
+  },
+  {
+   "hr": "Može!",
+   "fr": "Ça marche ! / OK !",
+   "pron": "mojé",
+   "level": 2
+  },
+  {
+   "hr": "Polako",
+   "fr": "doucement, tranquille (très croate)",
+   "pron": "polako",
+   "level": 2
+  },
+  {
+   "hr": "Pomalo!",
+   "fr": "tranquille, cool (esprit dalmate)",
+   "pron": "pomalo",
+   "level": 2
+  },
+  {
+   "hr": "ponedjeljak",
+   "fr": "lundi",
+   "pron": "ponédyèlyak",
+   "level": 1
+  },
+  {
+   "hr": "utorak",
+   "fr": "mardi",
+   "pron": "outorak",
+   "level": 1
+  },
+  {
+   "hr": "srijeda",
+   "fr": "mercredi",
+   "pron": "sriyèda",
+   "level": 1
+  },
+  {
+   "hr": "četvrtak",
+   "fr": "jeudi",
+   "pron": "tchètveurtak",
+   "level": 1
+  },
+  {
+   "hr": "petak",
+   "fr": "vendredi",
+   "pron": "pétak",
+   "level": 1
+  },
+  {
+   "hr": "subota",
+   "fr": "samedi",
+   "pron": "soubota",
+   "level": 1
+  },
+  {
+   "hr": "nedjelja",
+   "fr": "dimanche",
+   "pron": "nédyèlya",
+   "level": 1
+  },
+  {
+   "hr": "dan",
+   "fr": "jour",
+   "pron": "dane",
+   "level": 1
+  },
+  {
+   "hr": "noć",
+   "fr": "nuit",
+   "pron": "notch",
+   "level": 1
+  },
+  {
+   "hr": "tjedan",
+   "fr": "semaine",
+   "pron": "tyédane",
+   "level": 1
+  },
+  {
+   "hr": "mjesec",
+   "fr": "mois / lune",
+   "pron": "myéssèts",
+   "level": 1
+  },
+  {
+   "hr": "godina",
+   "fr": "année",
+   "pron": "godina",
+   "level": 1
+  },
+  {
+   "hr": "sat",
+   "fr": "heure / montre",
+   "pron": "sat",
+   "level": 1
+  },
+  {
+   "hr": "jutro",
+   "fr": "matin",
+   "pron": "youtro",
+   "level": 1
+  },
+  {
+   "hr": "stan",
+   "fr": "appartement",
+   "pron": "stane",
+   "level": 1
+  },
+  {
+   "hr": "najam",
+   "fr": "location, loyer",
+   "pron": "nayame",
+   "level": 1
+  },
+  {
+   "hr": "ugovor",
+   "fr": "contrat",
+   "pron": "ougovor",
+   "level": 1
+  },
+  {
+   "hr": "porez",
+   "fr": "impôt",
+   "pron": "porèz",
+   "level": 1
+  },
+  {
+   "hr": "boravišna dozvola",
+   "fr": "permis de séjour",
+   "pron": "boravichna dozvola",
+   "level": 1
+  },
+  {
+   "hr": "osiguranje",
+   "fr": "assurance",
+   "pron": "ossigouragné",
+   "level": 1
+  },
+  {
+   "hr": "liječnik",
+   "fr": "médecin",
+   "pron": "liyètchnik",
+   "level": 1
+  },
+  {
+   "hr": "bolnica",
+   "fr": "hôpital",
+   "pron": "bolnitsa",
+   "level": 1
+  },
+  {
+   "hr": "ljekarna",
+   "fr": "pharmacie",
+   "pron": "lyékarna",
+   "level": 1
+  },
+  {
+   "hr": "pošta",
+   "fr": "bureau de poste",
+   "pron": "pochta",
+   "level": 1
+  },
+  {
+   "hr": "trgovina",
+   "fr": "magasin",
+   "pron": "teurgovina",
+   "level": 1
+  },
+  {
+   "hr": "tržnica",
+   "fr": "marché",
+   "pron": "teurjnitsa",
+   "level": 1
+  },
+  {
+   "hr": "zdravlje",
+   "fr": "santé",
+   "pron": "zdravlyé",
+   "level": 1
+  },
+  {
+   "hr": "zemlja",
+   "fr": "pays / terre",
+   "pron": "zèmlya",
+   "level": 1
+  },
+  {
+   "hr": "jezik",
+   "fr": "langue",
+   "pron": "yézik",
+   "level": 1
+  },
+  {
+   "hr": "ime",
+   "fr": "nom, prénom",
+   "pron": "imé",
+   "level": 1
+  },
+  {
+   "hr": "ljudi",
+   "fr": "les gens",
+   "pron": "lyoudi",
+   "level": 1
+  },
+  {
+   "hr": "majka",
+   "fr": "mère",
+   "pron": "maïka",
+   "level": 1
+  },
+  {
+   "hr": "otac",
+   "fr": "père",
+   "pron": "otats",
+   "level": 1
+  },
+  {
+   "hr": "brat",
+   "fr": "frère",
+   "pron": "brat",
+   "level": 1
+  },
+  {
+   "hr": "sestra",
+   "fr": "sœur",
+   "pron": "sèstra",
+   "level": 1
+  },
+  {
+   "hr": "biti",
+   "fr": "être",
+   "pron": "biti",
+   "level": 1
+  },
+  {
+   "hr": "imati",
+   "fr": "avoir",
+   "pron": "imati",
+   "level": 1
+  },
+  {
+   "hr": "doći",
+   "fr": "venir",
+   "pron": "dotchi",
+   "level": 1
+  },
+  {
+   "hr": "vidjeti",
+   "fr": "voir",
+   "pron": "vidyèti",
+   "level": 1
+  },
+  {
+   "hr": "misliti",
+   "fr": "penser",
+   "pron": "misliti",
+   "level": 1
+  },
+  {
+   "hr": "platiti",
+   "fr": "payer",
+   "pron": "platiti",
+   "level": 1
+  },
+  {
+   "hr": "tražiti",
+   "fr": "chercher",
+   "pron": "trajiti",
+   "level": 1
+  },
+  {
+   "hr": "naći",
+   "fr": "trouver",
+   "pron": "natchi",
+   "level": 1
+  },
+  {
+   "hr": "pomoći",
+   "fr": "aider",
+   "pron": "pomotchi",
+   "level": 1
+  },
+  {
+   "hr": "čekati",
+   "fr": "attendre",
+   "pron": "tchékati",
+   "level": 1
+  },
+  {
+   "hr": "živjeti",
+   "fr": "vivre, habiter",
+   "pron": "jivyèti",
+   "level": 1
+  },
+  {
+   "hr": "što",
+   "fr": "quoi",
+   "pron": "chto",
+   "level": 1
+  },
+  {
+   "hr": "tko",
+   "fr": "qui",
+   "pron": "tko",
+   "level": 1
+  },
+  {
+   "hr": "kada",
+   "fr": "quand",
+   "pron": "kada",
+   "level": 1
+  },
+  {
+   "hr": "gdje",
+   "fr": "où",
+   "pron": "gdyé",
+   "level": 1
+  },
+  {
+   "hr": "kako",
+   "fr": "comment",
+   "pron": "kako",
+   "level": 1
+  },
+  {
+   "hr": "zašto",
+   "fr": "pourquoi",
+   "pron": "zachto",
+   "level": 1
+  },
+  {
+   "hr": "uvijek",
+   "fr": "toujours",
+   "pron": "ouviyèk",
+   "level": 1
+  },
+  {
+   "hr": "nikad",
+   "fr": "jamais",
+   "pron": "nikad",
+   "level": 1
+  },
+  {
+   "hr": "možda",
+   "fr": "peut-être",
+   "pron": "mojda",
+   "level": 1
+  },
+  {
+   "hr": "i",
+   "fr": "et",
+   "pron": "i",
+   "level": 1
+  },
+  {
+   "hr": "ali",
+   "fr": "mais",
+   "pron": "ali",
+   "level": 1
+  },
+  {
+   "hr": "ili",
+   "fr": "ou",
+   "pron": "ili",
+   "level": 1
+  },
+  {
+   "hr": "Ja sam iz Francuske",
+   "fr": "Je viens de France",
+   "pron": "ya same iz frantsouské",
+   "level": 2
+  },
+  {
+   "hr": "Živim na Tahitiju",
+   "fr": "J'habite à Tahiti",
+   "pron": "jivime na tahitiyou",
+   "level": 2
+  },
+  {
+   "hr": "Mogu li platiti karticom?",
+   "fr": "Je peux payer par carte ?",
+   "pron": "mogou li platiti kartitsome",
+   "level": 2
+  },
+  {
+   "hr": "Trebam liječnika",
+   "fr": "J'ai besoin d'un médecin",
+   "pron": "trébame liyètchnika",
+   "level": 2
+  },
+  {
+   "hr": "Ne znam",
+   "fr": "Je ne sais pas",
+   "pron": "né zname",
+   "level": 2
+  },
+  {
+   "hr": "Naravno",
+   "fr": "Bien sûr",
+   "pron": "naravno",
+   "level": 2
+  },
+  {
+   "hr": "Nema na čemu",
+   "fr": "De rien",
+   "pron": "néma na tchémou",
+   "level": 2
+  },
+  {
+   "hr": "U redu",
+   "fr": "D'accord",
+   "pron": "ou rédou",
+   "level": 2
+  },
+  {
+   "hr": "Sretno!",
+   "fr": "Bonne chance !",
+   "pron": "srètno",
+   "level": 2
+  },
+  {
+   "hr": "Dobrodošli!",
+   "fr": "Bienvenue !",
+   "pron": "dobrodochli",
+   "level": 2
+  },
+  {
+   "hr": "Ugodan dan!",
+   "fr": "Bonne journée !",
+   "pron": "ougodane dane",
+   "level": 2
+  },
+  {
+   "hr": "Gladan sam",
+   "fr": "J'ai faim",
+   "pron": "gladane same",
+   "level": 2
+  },
+  {
+   "hr": "Žedan sam",
+   "fr": "J'ai soif",
+   "pron": "jédane same",
+   "level": 2
+  },
+  {
+   "hr": "Umoran sam",
+   "fr": "Je suis fatigué",
+   "pron": "oumorane same",
+   "level": 2
+  },
+  {
+   "hr": "Idemo!",
+   "fr": "Allons-y !",
+   "pron": "idémo",
+   "level": 2
+  },
+  {
+   "hr": "Sviđa mi se",
+   "fr": "Ça me plaît",
+   "pron": "svidja mi sé",
+   "level": 2
+  },
+  {
+   "hr": "Kako se kaže...?",
+   "fr": "Comment dit-on... ?",
+   "pron": "kako sé kajé",
+   "level": 2
+  },
+  {
+   "hr": "Vidimo se!",
+   "fr": "À plus !",
+   "pron": "vidimo sé",
+   "level": 2
+  },
+  {
+   "hr": "povrće",
+   "fr": "légumes",
+   "pron": "povrtché",
+   "level": 1
+  },
+  {
+   "hr": "voće",
+   "fr": "fruits",
+   "pron": "votché",
+   "level": 1
+  },
+  {
+   "hr": "juha",
+   "fr": "soupe",
+   "pron": "youkha",
+   "level": 1
+  },
+  {
+   "hr": "salata",
+   "fr": "salade",
+   "pron": "salata",
+   "level": 1
+  },
+  {
+   "hr": "jaje",
+   "fr": "œuf",
+   "pron": "yayé",
+   "level": 1
+  },
+  {
+   "hr": "piletina",
+   "fr": "poulet",
+   "pron": "pilétina",
+   "level": 1
+  },
+  {
+   "hr": "maslinovo ulje",
+   "fr": "huile d'olive",
+   "pron": "maslinovo oulyé",
+   "level": 1
+  },
+  {
+   "hr": "čaj",
+   "fr": "thé",
+   "pron": "tchaï",
+   "level": 1
+  },
+  {
+   "hr": "sok",
+   "fr": "jus",
+   "pron": "sok",
+   "level": 1
+  },
+  {
+   "hr": "šećer",
+   "fr": "sucre",
+   "pron": "chétchèr",
+   "level": 1
+  },
+  {
+   "hr": "sol",
+   "fr": "sel",
+   "pron": "sol",
+   "level": 1
+  },
+  {
+   "hr": "doručak",
+   "fr": "petit-déjeuner",
+   "pron": "doroutchak",
+   "level": 1
+  },
+  {
+   "hr": "ručak",
+   "fr": "déjeuner",
+   "pron": "routchak",
+   "level": 1
+  },
+  {
+   "hr": "večera",
+   "fr": "dîner",
+   "pron": "vétchéra",
+   "level": 1
+  },
+  {
+   "hr": "konoba",
+   "fr": "taverne / resto local",
+   "pron": "konoba",
+   "level": 1
+  },
+  {
+   "hr": "jelovnik",
+   "fr": "menu",
+   "pron": "yélovnik",
+   "level": 1
+  },
+  {
+   "hr": "ukusno",
+   "fr": "délicieux",
+   "pron": "oukousno",
+   "level": 1
+  },
+  {
+   "hr": "bankomat",
+   "fr": "distributeur",
+   "pron": "bankomat",
+   "level": 1
+  },
+  {
+   "hr": "gotovina",
+   "fr": "espèces",
+   "pron": "gotovina",
+   "level": 1
+  },
+  {
+   "hr": "kartica",
+   "fr": "carte (bancaire)",
+   "pron": "kartitsa",
+   "level": 1
+  },
+  {
+   "hr": "mjenjačnica",
+   "fr": "bureau de change",
+   "pron": "myégnatchnitsa",
+   "level": 1
+  },
+  {
+   "hr": "tečaj",
+   "fr": "taux de change / cours",
+   "pron": "tétchaï",
+   "level": 1
+  },
+  {
+   "hr": "štednja",
+   "fr": "épargne",
+   "pron": "chtèdgna",
+   "level": 1
+  },
+  {
+   "hr": "kamata",
+   "fr": "intérêt (taux)",
+   "pron": "kamata",
+   "level": 1
+  },
+  {
+   "hr": "podići novac",
+   "fr": "retirer de l'argent",
+   "pron": "poditchi novats",
+   "level": 1
+  },
+  {
+   "hr": "soba",
+   "fr": "chambre",
+   "pron": "soba",
+   "level": 1
+  },
+  {
+   "hr": "kuhinja",
+   "fr": "cuisine",
+   "pron": "kouhignya",
+   "level": 1
+  },
+  {
+   "hr": "kupaonica",
+   "fr": "salle de bain",
+   "pron": "koupaonitsa",
+   "level": 1
+  },
+  {
+   "hr": "namješten",
+   "fr": "meublé",
+   "pron": "namyéchtèn",
+   "level": 1
+  },
+  {
+   "hr": "režije",
+   "fr": "charges (logement)",
+   "pron": "réjiyé",
+   "level": 1
+  },
+  {
+   "hr": "stanodavac",
+   "fr": "propriétaire (bailleur)",
+   "pron": "stanodavats",
+   "level": 1
+  },
+  {
+   "hr": "stanarina",
+   "fr": "loyer",
+   "pron": "stanarina",
+   "level": 1
+  },
+  {
+   "hr": "susjed",
+   "fr": "voisin",
+   "pron": "sousyèd",
+   "level": 1
+  },
+  {
+   "hr": "kat",
+   "fr": "étage",
+   "pron": "kat",
+   "level": 1
+  },
+  {
+   "hr": "autobus",
+   "fr": "bus",
+   "pron": "aoutobous",
+   "level": 1
+  },
+  {
+   "hr": "stanica",
+   "fr": "station / arrêt",
+   "pron": "stanitsa",
+   "level": 1
+  },
+  {
+   "hr": "karta",
+   "fr": "billet / carte",
+   "pron": "karta",
+   "level": 1
+  },
+  {
+   "hr": "blizu",
+   "fr": "près",
+   "pron": "blizou",
+   "level": 1
+  },
+  {
+   "hr": "daleko",
+   "fr": "loin",
+   "pron": "daléko",
+   "level": 1
+  },
+  {
+   "hr": "most",
+   "fr": "pont",
+   "pron": "most",
+   "level": 1
+  },
+  {
+   "hr": "cesta",
+   "fr": "route",
+   "pron": "tsèsta",
+   "level": 1
+  },
+  {
+   "hr": "parkiralište",
+   "fr": "parking",
+   "pron": "parkiralichté",
+   "level": 1
+  },
+  {
+   "hr": "voziti",
+   "fr": "conduire",
+   "pron": "voziti",
+   "level": 1
+  },
+  {
+   "hr": "toplo",
+   "fr": "chaud",
+   "pron": "toplo",
+   "level": 1
+  },
+  {
+   "hr": "hladno",
+   "fr": "froid",
+   "pron": "khladno",
+   "level": 1
+  },
+  {
+   "hr": "kiša",
+   "fr": "pluie",
+   "pron": "kicha",
+   "level": 1
+  },
+  {
+   "hr": "vjetar",
+   "fr": "vent",
+   "pron": "vyétar",
+   "level": 1
+  },
+  {
+   "hr": "snijeg",
+   "fr": "neige",
+   "pron": "sniyèg",
+   "level": 1
+  },
+  {
+   "hr": "proljeće",
+   "fr": "printemps",
+   "pron": "prolyétché",
+   "level": 1
+  },
+  {
+   "hr": "jesen",
+   "fr": "automne",
+   "pron": "yésèn",
+   "level": 1
+  },
+  {
+   "hr": "glava",
+   "fr": "tête",
+   "pron": "glava",
+   "level": 1
+  },
+  {
+   "hr": "zub",
+   "fr": "dent",
+   "pron": "zoub",
+   "level": 1
+  },
+  {
+   "hr": "zubar",
+   "fr": "dentiste",
+   "pron": "zoubar",
+   "level": 1
+  },
+  {
+   "hr": "bol",
+   "fr": "douleur",
+   "pron": "bol",
+   "level": 1
+  },
+  {
+   "hr": "putovati",
+   "fr": "voyager",
+   "pron": "poutovati",
+   "level": 1
+  },
+  {
+   "hr": "trčati",
+   "fr": "courir",
+   "pron": "trtchati",
+   "level": 1
+  },
+  {
+   "hr": "plivati",
+   "fr": "nager",
+   "pron": "plivati",
+   "level": 1
+  },
+  {
+   "hr": "čitati",
+   "fr": "lire",
+   "pron": "tchitati",
+   "level": 1
+  },
+  {
+   "hr": "pisati",
+   "fr": "écrire",
+   "pron": "pisati",
+   "level": 1
+  },
+  {
+   "hr": "slušati",
+   "fr": "écouter",
+   "pron": "slouchati",
+   "level": 1
+  },
+  {
+   "hr": "učiti",
+   "fr": "apprendre",
+   "pron": "outchiti",
+   "level": 1
+  },
+  {
+   "hr": "odlično",
+   "fr": "excellent",
+   "pron": "odlitchno",
+   "level": 1
+  },
+  {
+   "hr": "stvarno?",
+   "fr": "vraiment ?",
+   "pron": "stvarno",
+   "level": 1
+  },
+  {
+   "hr": "točno",
+   "fr": "exact",
+   "pron": "totchno",
+   "level": 1
+  },
+  {
+   "hr": "zajedno",
+   "fr": "ensemble",
+   "pron": "zayèdno",
+   "level": 1
+  },
+  {
+   "hr": "brzo",
+   "fr": "vite",
+   "pron": "brzo",
+   "level": 1
+  },
+  {
+   "hr": "novo",
+   "fr": "nouveau",
+   "pron": "novo",
+   "level": 1
+  },
+  {
+   "hr": "staro",
+   "fr": "vieux",
+   "pron": "staro",
+   "level": 1
+  },
+  {
+   "hr": "dvadeset",
+   "fr": "vingt",
+   "pron": "dvadéssèt",
+   "level": 1
+  },
+  {
+   "hr": "pedeset",
+   "fr": "cinquante",
+   "pron": "pédéssèt",
+   "level": 1
+  },
+  {
+   "hr": "Boli me glava",
+   "fr": "J'ai mal à la tête",
+   "pron": "boli mé glava",
+   "level": 2
+  },
+  {
+   "hr": "Želim otvoriti račun",
+   "fr": "Je veux ouvrir un compte",
+   "pron": "jélim otvoriti ratchoun",
+   "level": 2
+  },
+  {
+   "hr": "Gdje je bankomat?",
+   "fr": "Où est le distributeur ?",
+   "pron": "gdyé yé bankomat",
+   "level": 2
+  },
+  {
+   "hr": "Koliki je tečaj?",
+   "fr": "Quel est le taux de change ?",
+   "pron": "koliki yé tétchaï",
+   "level": 2
+  },
+  {
+   "hr": "Idem trčati",
+   "fr": "Je vais courir",
+   "pron": "idèm trtchati",
+   "level": 2
+  },
+  {
+   "hr": "Danas je lijepo vrijeme",
+   "fr": "Il fait beau aujourd'hui",
+   "pron": "danass yé liyépo vriyémé",
+   "level": 2
+  },
+  {
+   "hr": "Tražim stan",
+   "fr": "Je cherche un appartement",
+   "pron": "trajim stan",
+   "level": 2
+  },
+  {
+   "hr": "Kolika je stanarina?",
+   "fr": "Combien est le loyer ?",
+   "pron": "kolika yé stanarina",
+   "level": 2
+  },
+  {
+   "hr": "Radim od kuće",
+   "fr": "Je travaille de chez moi",
+   "pron": "radim od koutché",
+   "level": 2
+  },
+  {
+   "hr": "Govorim malo hrvatski",
+   "fr": "Je parle un peu croate",
+   "pron": "govorim malo khrvatski",
+   "level": 2
+  },
+  {
+   "hr": "Možete li ponoviti?",
+   "fr": "Pouvez-vous répéter ?",
+   "pron": "mojété li ponoviti",
+   "level": 2
+  },
+  {
+   "hr": "Kada dolazi autobus?",
+   "fr": "Quand arrive le bus ?",
+   "pron": "kada dolazi aoutobous",
+   "level": 2
+  },
+  {
+   "hr": "Jedna kava s mlijekom, molim",
+   "fr": "Un café au lait, s'il vous plaît",
+   "pron": "yèdna kava s mliyékom molim",
+   "level": 2
+  }
+ ],
+ "flag": "🇭🇷"
 }
