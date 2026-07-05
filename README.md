@@ -5,9 +5,11 @@
 Des micro-doses de vocabulaire s'affichent dans la statusline de [Claude Code](https://claude.com/claude-code) — une nouvelle carte toutes les 30 secondes, pendant que l'IA réfléchit, code, ou compile. Depuis la v2, un système de **répétition espacée** (boîtes de Leitner) fait revenir les cartes au bon moment : souvent au début, de moins en moins à mesure que vous les connaissez.
 
 ```
-🇭🇷 🆕 Trebam pomoć = J'ai besoin d'aide  [trébame pomotch]
-⌨️ ⌘⇧Entrée = zoomer/dézoomer le split actif  · Ghostty
+🇭🇷 🆕 Trebam pomoć = J'ai besoin d'aide  [trébame pomotch]  ▰▱▱▱▱ 12/276
+⌨️ ⌘⇧Entrée = zoomer/dézoomer le split actif  · Ghostty  ▰▱▱▱▱ 5/62
 ```
+
+Le mot affiché est **coloré selon sa maîtrise** (rouge = tout neuf → vert = acquis), et une petite barre en fin de ligne suit votre progression globale sur le deck.
 
 100 % local, zéro dépendance externe, zéro pub, zéro tracking. Juste bash + python3 (préinstallés sur macOS).
 
@@ -49,13 +51,15 @@ L'installeur copie les fichiers dans `~/.claude/polyglotte/` et vous propose d'a
 
 Chaque carte progresse dans 5 boîtes de Leitner selon le nombre de fois où vous l'avez vue :
 
-| Boîte | Statut | Revient après |
-|-------|--------|---------------|
-| 0 | nouvelle (🆕) | 2 min |
-| 1 | en apprentissage | 8 min |
-| 2 | connue | 30 min |
-| 3 | acquise | 2 h |
-| 4 | maîtrisée | 12 h |
+| Boîte | Statut | Couleur du mot | Revient après |
+|-------|--------|----------------|---------------|
+| 0 | nouvelle (🆕) | 🔴 rouge | 2 min |
+| 1 | en apprentissage | 🟠 orange | 8 min |
+| 2 | connue | 🟡 jaune | 30 min |
+| 3 | acquise | 🟢 vert clair | 2 h |
+| 4 | maîtrisée | 🟢 vert | 12 h |
+
+La couleur du mot affiché reflète en direct la boîte de la carte : plus vous progressez, plus elle vire au vert. La barre `▰▱▱▱▱ N/total` en fin de ligne compte les cartes acquises (boîte 3+).
 
 - Les nouvelles cartes sont introduites progressivement (au plus 1 slot sur 3, et jamais plus de 25 cartes en apprentissage simultané)
 - La progression est stockée dans `~/.claude/polyglotte/state.json` — supprimez-le pour repartir de zéro

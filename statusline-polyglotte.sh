@@ -23,6 +23,22 @@ PROMOTE_AT = [2, 5, 9, 14]            # vues cumulées pour passer en boîte 1,2
 INTERVALS = [4, 16, 60, 240, 1440]    # boîte 0→4 : 2 min, 8 min, 30 min, 2 h, 12 h
 MAX_LEARNING = 25                     # cartes max en boîtes 0-1 avant de bloquer les intros
 
+RESET = "\033[0m"
+DIM = "\033[2m"
+# Couleur par boîte Leitner (0 = tout neuf → 4 = acquis) : rouge → orange → jaune → vert clair → vert
+BOX_COLORS = ["\033[38;5;203m", "\033[38;5;215m", "\033[38;5;220m",
+              "\033[38;5;149m", "\033[38;5;42m"]
+
+def colorize(text, b):
+    return BOX_COLORS[min(b, 4)] + text + RESET
+
+def progress_bar(acquis, total, width=5):
+    if total <= 0:
+        return ""
+    filled = int(round(acquis / total * width))
+    bar = "▰" * filled + "▱" * (width - filled)
+    return f"{DIM}{bar} {acquis}/{total}{RESET}"
+
 def load_json(path):
     try:
         with open(path) as f:
@@ -48,7 +64,8 @@ def pick(deck_id, entries, key_of, slot, state):
 
     # même slot → réafficher la même carte, sans compter une vue de plus
     if last.get("slot") == slot and last.get("key") in by_key:
-        return by_key[last["key"]], last.get("new", False), False
+        b = cards.get(last["key"], {}).get("b", 0)
+        return by_key[last["key"]], last.get("new", False), False, b
 
     # 1 slot sur 4 = phrase (level 2) si dispo
     phrases = [e for e in entries if e.get("level", 1) >= 2]
@@ -79,7 +96,7 @@ def pick(deck_id, entries, key_of, slot, state):
         c["b"] += 1
     c["due"] = slot + INTERVALS[c["b"]]
     ds["last"] = {"slot": slot, "key": k, "new": is_new}
-    return entry, is_new, True
+    return entry, is_new, True, c["b"]
 
 state = load_json(STATE_PATH) or {}
 dirty = False
@@ -110,23 +127,33 @@ if STATS:
         report("kbd", "⌨️ raccourcis", kbd["entries"], lambda e: e.get("app", "") + "|" + e["k"])
     sys.exit(0)
 
+def count_acquired(deck_id, entries, key_of):
+    cards = state.get(deck_id, {}).get("cards", {})
+    ks = {key_of(e) for e in entries}
+    return sum(1 for k, c in cards.items() if k in ks and c.get("b", 0) >= 3), len(entries)
+
 if decks:
     deck = decks[slot % len(decks)]
     dslot = slot // len(decks)
     lang = deck.get("lang", "hr")
-    e, is_new, dirty1 = pick(deck["_id"], deck["entries"], lambda x: x[lang], dslot, state)
+    e, is_new, dirty1, box = pick(deck["_id"], deck["entries"], lambda x: x[lang], dslot, state)
     dirty = dirty or dirty1
     tag = "🆕 " if is_new else ""
-    lines.append(f"{deck.get('flag', chr(0x1F30D))} {tag}{e[lang]} = {e['fr']}  [{e['pron']}]")
+    acquis, total = count_acquired(deck["_id"], deck["entries"], lambda x: x[lang])
+    bar = progress_bar(acquis, total)
+    lines.append(f"{deck.get('flag', chr(0x1F30D))} {tag}{colorize(e[lang], box)} = {e['fr']}  [{e['pron']}]  {bar}")
 
 # ligne 2 — raccourcis clavier, slot décalé de 15 s pour ne pas changer en même temps
 kbd = load_json(os.path.join(DIR, "kbd.json"))
 if kbd and kbd.get("entries"):
     kslot = (int(time.time()) + 15) // 30
-    e, is_new, dirty2 = pick("kbd", kbd["entries"], lambda x: x.get("app", "") + "|" + x["k"], kslot, state)
+    kkey = lambda x: x.get("app", "") + "|" + x["k"]
+    e, is_new, dirty2, box = pick("kbd", kbd["entries"], kkey, kslot, state)
     dirty = dirty or dirty2
     tag = "🆕 " if is_new else ""
-    lines.append(f"{kbd.get('icon', chr(0x2328))} {tag}{e['k']} = {e['fr']}  · {e.get('app', '')}")
+    acquis, total = count_acquired("kbd", kbd["entries"], kkey)
+    bar = progress_bar(acquis, total)
+    lines.append(f"{kbd.get('icon', chr(0x2328))} {tag}{colorize(e['k'], box)} = {e['fr']}  · {e.get('app', '')}  {bar}")
 
 if dirty:
     save_state(state)
